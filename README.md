@@ -40,7 +40,4 @@ git clone https://github.com/alacritty/alacritty-theme ~/dotfiles/.config/alacri
 ```
 
 ## Nvim
-[LazyVim](https://www.lazyvim.org/)
-- `ripgrep`
-- `fd`
-
+In progress
