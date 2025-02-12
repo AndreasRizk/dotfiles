@@ -6,4 +6,3 @@ vim.opt.smarttab = true
 
 vim.opt.scrolloff = 999
 vim.opt.relativenumber = true
-
